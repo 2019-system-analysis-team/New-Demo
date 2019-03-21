@@ -1,4 +1,4 @@
-front-end:
+### front-end:
 
 (0) cd front-end
 
@@ -6,7 +6,7 @@ front-end:
 
 (2) npm run dev 
 
-back-end:
+### back-end:
 
 (0) cd back-end
 
@@ -16,7 +16,7 @@ back-end:
 
 (3) python run.py
 
-前后端数据传输：
+### 前后端数据传输：
 front_end/config/index.js
 ```javascript
 module.exports = {
