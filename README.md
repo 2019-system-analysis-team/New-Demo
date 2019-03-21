@@ -1,12 +1,19 @@
 front-end:
+
 (0) cd front-end
+
 (1) npm install
+
 (2) npm run dev 
 
 back-end:
+
 (0) cd back-end
+
 (1) pip install -r requirements.txt
+
 (2) if no site.db in /moneyapp, run python db_create.py
+
 (3) python run.py
 
 前后端数据传输：
